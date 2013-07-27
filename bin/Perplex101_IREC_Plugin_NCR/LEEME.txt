@@ -1,0 +1,72 @@
+		###################################################
+		####### PERPLEX v1.01 PLUGIN for ImportREC ########
+		###################################################
+		############# +NCR/CRC! [ReVeRsEr] ################
+		################# CracksLatinoS! 2006 #############
+		###################################################
+
+
+
+
+
+1- Introduccion
+2- Uso
+3- Consideraciones
+4- Contacto
+5- Despedida
+
+
+
+
+
+
+1- Introduccion
+~~~~~÷~~~~~~~~~
+
+PERPLEX v1.01 es un plugin para ImportReconstructor. Permite reparar las entradas
+redireccionadas. 
+
+2- Uso
+~~~~~~
+
+Para poder utilizar el plugin solo debes de copiar Perplex101.dll a la carpeta
+"Plugin" del ImportREC. Luego, cuando tengas el objetivo cargado en IREC solo selecciona
+Plugins Tracers - Perplex101 y tendrán las entradas reparadas. Recuerda antes
+colocar el offset del OEP y la RVA de la IAT en caso de que la opción "IAT AutoSearch"
+no funcione.
+
+3- Consideraciones
+~~~~~÷~~~~~~~~~~~~
+
+Solo tuve la oportunidad de probar el plugin con test_perplex v1.01 que adjunto con 
+el plugin, así que si encuentras que el plugin no funciona o no repara por completo
+las entradas de tu programa protegido por favor contactame y enviame el empacado para
+poder actualizar el plugin.
+
+4- Contacto
+~~~~~÷~~~~~
+
+Para contactarme puedes probar alguno de estos e-mails:
+
+reversing_ar@yahoo.com.ar
+ncr@30gigs.com
+ginecologode15a25@yahoo.com.ar
+nahuelriva@gmail.com
+
+MSN: nahuelriva@hotmail.com
+
+También puedes visitar la web http://ncr.iespana.es
+
+No olvides visitar además www.crackslatinos.hispadominio.net
+
+5- Despedida
+~~~~~÷~~~~~~~
+
+Agradecimiento especial para las siguientes listas:
+
+CracksLatinoS! 2006, [RVLCN], [aRC], PDAToolBoxHispano, Ing. Palm, CrackIndex, 
+C con Clase, CPROG, .NET y además a la gente de los foros en ARTeam, TSRh y ICU. 
+
+Saludos.
+
++NCR/CRC! [ReVeRsEr] / Domingo 12 de Febrero de 2006 17:32 P.M.
